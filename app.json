@@ -2,7 +2,7 @@
   "name": "PMchatbot",
   "description": "Personal Message Chatting robot. Create your fork now",
   "keywords": ["telegram", "pm", "chat", "bot", "open", "source"],
-  "logo": "https://telegra.ph/file/b20fd5dfc7cf46508593e.jpg"
+  "logo": "https://telegra.ph/file/b20fd5dfc7cf46508593e.jpg",
   "website": "https://github.com/DARKEMPIRESL/PMChatbot",
   "repository": "https://github.com/DARKEMPIRESL/PMChatbot",
   "env": {
