@@ -18,7 +18,7 @@ async def force_sub(bot, msg):
                 return 
         except UserNotParticipant:
             text = await msg.reply_text("**❌ Access Denied ❌**\n🌷You Must Join My Update Channel...🌷\n♻️Join it & Try Again.♻️"),
-                reply_markup=InlineKeyboardMarkup([[
+                 reply_markup=InlineKeyboardMarkup([[
                  InlineKeyboardButton('𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊', url='https://t.me/ImDark_Empire'),
                  InlineKeyboardButton('𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊', url='https://t.me/SL_BOTS_TM')
                  ]]
