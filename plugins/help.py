@@ -24,7 +24,7 @@ async def force_sub(bot, msg):
                  ]]
                 )
                
-            return 
+        return 
     
 @Client.on_message(filters.command(commands=['start'])) 
   async def StartMsg(_,m): 
