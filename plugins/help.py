@@ -17,7 +17,7 @@ async def force_sub(bot, msg):
                 await msg.reply_text("Yourt Banned")
                 return 
         except UserNotParticipant:
-            await msg.reply_text text= 
+            await msg.reply_text
                 text="**❌ Access Denied ❌**\n🌷You Must Join My Update Channel...🌷\n♻️Join it & Try Again.♻️",
                 reply_markup=InlineKeyboardMarkup([[
                  InlineKeyboardButton('𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊', url='https://t.me/ImDark_Empire'),
