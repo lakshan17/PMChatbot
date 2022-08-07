@@ -23,7 +23,7 @@ async def force_sub(bot, msg):
                  InlineKeyboardButton('𝕯𝖆𝖗𝖐 𝕰𝖒𝖕𝖎𝖗𝖊', url='https://t.me/SL_BOTS_TM')
                  ]]
                 )
-            )    
+               
             return 
     
 @Client.on_message(filters.command(commands=['start'])) 
